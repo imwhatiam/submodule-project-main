@@ -1,0 +1,6 @@
+[submodule "submodule-project-sub-1"]
+	path = submodule-project-sub-1
+	url = git@github.com:imwhatiam/submodule-project-sub-1.git
+[submodule "cell-lac"]
+	path = cell-lac
+	url = git@github.com:imwhatiam/cell-lac.git
